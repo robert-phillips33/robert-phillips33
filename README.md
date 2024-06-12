@@ -6,7 +6,7 @@
 ### **<div align="center">[ Hey! I'm Robert, a Front-End developer from Detroit, MI! ]</div>**  
   
 
-**<div align="center">I'm currently enrolled at Turing School of Software and Design!</div>**  
+**<div align="center">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design!</div>**  
   
 
 
