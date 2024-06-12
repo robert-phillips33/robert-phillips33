@@ -5,12 +5,8 @@
 <br/>
 
 ### **<div align="center">[ Hey! I'm Robert, a Front-End developer from Detroit, MI! ]</div>**  
-
-<br/>
-
 **<div align="center">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design!</div>**  
 
-<br/>
 <br/>
 
 <div align="center">  
@@ -20,7 +16,6 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>  
 
-<br/>
 <br/>
 
 <div align="center">
@@ -32,5 +27,4 @@
   </a>  
 </div>  
 
-<br/>
 <br/>  
