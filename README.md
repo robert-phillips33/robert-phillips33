@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<br/>
+
 <div align="center">▲▼ Reach out ▲▼</div>
 <br/>
 
