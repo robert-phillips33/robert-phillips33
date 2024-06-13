@@ -4,7 +4,7 @@
 
 <br/>
 
-### **<div align="center">[ Hey! I'm Robert, a front-end developer from Detroit, MI! ]</div>**  
+### **<div align="center">[ Hey! I'm Robert, a front-end developer living in Detroit, MI! ]</div>**  
 **<div align="center">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design.</div>**  
 
 <br/>
