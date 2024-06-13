@@ -3,7 +3,10 @@
 </div>  
 
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1300&color=00FFA7&center=true&vCenter=true&multiline=true&random=false&width=195&lines=Hey%2C+I'm+Robert!" align="center" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  
+  font=Fira+Code&duration=1800&pause=1300&color=00FFA7&center=true&vCenter=true&multiline=true&random=false&width=195&lines=Hey%2C+I'm+Robert!" alt="Typing SVG" /></a>
+</div>
 
 **<div align="center">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design.</div>**  
 
