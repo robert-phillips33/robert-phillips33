@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&pause=1300&color=00FFA7&center=true&vCenter=true&multiline=true&random=false&width=340&height=105&lines=Hey!+I'm+Robert.;I'm+a+front-end+developer.;I+live+in+Detroit%2C+MI." alt="Typing SVG" /></a>
 </div>
 
-**<div align="center" font="Fira-Code">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design.</div>**  
+**<div align="center" font="Fira-Code" color="##E6F78AFF">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design.</div>**  
 
 <br/>
 <br/>
