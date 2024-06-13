@@ -26,7 +26,9 @@
   </a>
 </div>
 
+<br/>
 <div align="center">▲▼ Reach out ▲▼</div>
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-phillips-56b9bb310/" target="_blank">
@@ -34,4 +36,3 @@
   </a>  
 </div>  
 
-<br/>  
