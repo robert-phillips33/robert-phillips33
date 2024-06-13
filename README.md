@@ -4,7 +4,7 @@
 
 <br/>
 
-### **<div align="center">[ Hey! I'm Robert, a front-end developer living in Detroit, MI! ]</div>**  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFA7&center=true&random=false&width=435&lines=%5B+I'm+Robert%2C+a+front-end+developer+living+in+Detroit%2C+MI!+%5D" alt="Typing SVG" /></a>
 **<div align="center">I'm currently enrolled at [Turing](https://turing.edu/) School of Software and Design.</div>**  
 
 <br/>
@@ -36,4 +36,7 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>  
 </div>  
+
+
+
 
