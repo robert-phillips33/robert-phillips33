@@ -27,7 +27,7 @@
 </div>
   
 <br/>
-
+<img src="https://www.svgrepo.com/svg/511203/water-drop?edit=true" alt="raindrop image" />
 
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-phillips-56b9bb310/" target="_blank">
