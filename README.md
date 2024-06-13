@@ -27,7 +27,6 @@
 </div>
   
 <br/>
-<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-phillips-56b9bb310/" target="_blank">
