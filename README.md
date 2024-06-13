@@ -26,7 +26,6 @@
   </a>
 </div>
 
-<img src="assets/SVGRepo_bgCarrier.svg" align="center" />
 
 <br/>
 <div align="center">▲▼ Reach out ▲▼</div>
